@@ -2,6 +2,10 @@
 
 This project is a Slack app that uses OpenAI's GPT-3.5-turbo model to enhance user interaction by providing AI-driven responses. The app is designed to send messages to all members of a Slack workspace and interact with users in real-time.
 
+# Demo
+
+[![Watch the demo](https://i.imgur.com/bMvlkbO.png)](https://www.youtube.com/shorts/SzpLCOID1Fc)
+
 ## Features
 
 - Retrieve all users from a Slack workspace.
